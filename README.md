@@ -72,11 +72,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dinendraswarnajith029-hue&show_icons=true&theme=tokyonight&border_radius=15" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinendraswarnajith029-hue&layout=compact&theme=tokyonight&border_radius=15" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinendraswarnajith029-hue&theme=tokyonight&border_radius=15" />
 </p>
 
