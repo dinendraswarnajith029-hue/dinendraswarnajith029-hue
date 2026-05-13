@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/github/followers/dinendraswarnajith029-hue?label=Followers&style=for-the-badge&color=6A5ACD" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:00BFFF&height=230&section=header&text=Dinendra%20Swarnajith&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Intern%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18"/>
-</p>
 
 ---
 
