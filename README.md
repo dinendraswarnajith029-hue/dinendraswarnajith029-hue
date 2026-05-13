@@ -4,9 +4,6 @@
 
 <div align="center">
 
-<a href="https://github.com/dinendraswarnajith029-hue">
-<img src="https://img.shields.io/github/followers/dinendraswarnajith029-hue?logo=github&style=for-the-badge&color=5865F2&labelColor=1e1e2e"/>
-</a>
 
 </div>
 
